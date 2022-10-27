@@ -1,7 +1,0 @@
-# ninja log v5
-0	347	1664224423725842241	CMakeFiles/is_prime_prog.dir/main.cpp.o	b88ed3047b1a7f83
-348	444	1664224423821846145	is_prime_prog	524a3d280b1f6527
-2	366	1664224628534167133	CMakeFiles/is_prime_prog.dir/is_prime_prog.cpp.o	7950e2aac1b9be0d
-2	353	1664224648574981323	CMakeFiles/is_prime_prog.dir/is_prime_prog.cpp.o	7950e2aac1b9be0d
-1	359	1664224648578981485	CMakeFiles/is_prime_prog.dir/main.cpp.o	b88ed3047b1a7f83
-359	460	1664224648678985547	is_prime_prog	bd0b56bd45ba195e

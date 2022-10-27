@@ -1,6 +1,9 @@
-cmake_minimum_required(VERSION 3.23)
+cmake_minimum_required(VERSION 3.0)
+
+# set the project name
 project(is_prime_prog)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(is_prime_prog main.cpp is_prime_prog.cpp is_prime_prog.h)
+# add the executable
+add_executable(main main.cpp)
